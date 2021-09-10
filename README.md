@@ -12,7 +12,7 @@
 
 1. Node.js installed.
 2. npm, a node dependency manager. To install, follow [this link.](https://www.npmjs.com/package/npm)
-3. 2captcha API. For this, you'll need to sign up to [https://2captcha.com/](https://2captcha.com/). Retrieve your API key from the dashboard.
+3. 2captcha API. For this, you'll need to sign up to [https://2captcha.com/](https://2captcha.com?from=12437369). Retrieve your API key from the dashboard.
 
 ## Setup
 
@@ -27,3 +27,7 @@
 From the command line, run
 
     npm index.js
+
+### Demo
+
+![tngeene captcha demo gif](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l2rzq2jqq3zbyu8z86pd.gif)
