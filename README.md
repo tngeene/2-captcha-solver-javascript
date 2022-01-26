@@ -26,7 +26,7 @@
 
 From the command line, run
 
-    npm index.js
+    node index.js
 
 ### Demo
 
